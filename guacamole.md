@@ -1,11 +1,11 @@
 Ingredients:
-*avocados
-*onions
-*cilantro
-*salt
-*lime
+* avocados
+* onions
+* cilantro
+* salt
+* lime
 
 Instructions: 
-*mix everything together
-*mash it up with a fork
+* mix everything together
+* mash it up with a fork
 
